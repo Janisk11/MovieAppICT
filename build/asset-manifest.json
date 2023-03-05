@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04a26678.css",
+    "main.js": "/static/js/main.1e253ec2.js",
+    "static/js/787.5d5ea81f.chunk.js": "/static/js/787.5d5ea81f.chunk.js",
+    "static/media/about-carousel-img2.jpg": "/static/media/about-carousel-img2.d5f3e0e491094192f4f9.jpg",
+    "static/media/multi8.avif": "/static/media/multi8.8b8c632ed09b3502b9fe.avif",
+    "static/media/multi5.avif": "/static/media/multi5.668502e267cdfe6e5bb1.avif",
+    "static/media/multi10.avif": "/static/media/multi10.0cdcc5382dc8b5829d69.avif",
+    "static/media/multi1.avif": "/static/media/multi1.3b17a8c01ee69bf82f67.avif",
+    "static/media/about-carousel-img3.jpg": "/static/media/about-carousel-img3.454f9be1599667cc7035.jpg",
+    "static/media/multi7.avif": "/static/media/multi7.3b6bb218f9bd0ec943ae.avif",
+    "static/media/multi2.avif": "/static/media/multi2.32a2a363e0fa109062a9.avif",
+    "static/media/multi9.avif": "/static/media/multi9.838fb25c9db8d21f6e79.avif",
+    "static/media/about-carousel-img1.avif": "/static/media/about-carousel-img1.29aedc144b22c38bff4e.avif",
+    "static/media/multi3.avif": "/static/media/multi3.5f53828bc3f70dea89af.avif",
+    "static/media/multi4.avif": "/static/media/multi4.e157262dec7bdb6fb640.avif",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/multi6.avif": "/static/media/multi6.2738e1f8bafa59bcde89.avif",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.04a26678.css.map": "/static/css/main.04a26678.css.map",
+    "main.1e253ec2.js.map": "/static/js/main.1e253ec2.js.map",
+    "787.5d5ea81f.chunk.js.map": "/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a26678.css",
+    "static/js/main.1e253ec2.js"
+  ]
+}
